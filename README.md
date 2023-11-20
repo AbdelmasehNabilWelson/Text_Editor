@@ -1,5 +1,5 @@
 # Text_Editor
-    Text Editor is a simple app used to work with texts. Provides functionalities like Flesch index, generating Markov text, edit distance, autocomplete, and spell checking.
+Text Editor is a simple app used to work with texts. Provides functionalities like Flesch index, generating Markov text, edit distance, autocomplete, and spell checking.
 
 # Current Implemented functionality
 * Flesch index: is a measure of how easy a piece of text is to read.
