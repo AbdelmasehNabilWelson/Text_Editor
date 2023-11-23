@@ -9,7 +9,7 @@ Text Editor is a simple app used to work with texts. Provides functionalities li
 
 
 
-https://github.com/AbdelmasehNabilWelson/Text_Editor/assets/110543597/43054b00-1676-43fc-ae88-d4a21b564604
+[App demo video](https://www.youtube.com/watch?v=NsHB0IpBcbQ)
 
 
 
