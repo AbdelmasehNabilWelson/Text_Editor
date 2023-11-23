@@ -14,6 +14,11 @@ Text Editor is a simple app used to work with texts. Provides functionalities li
 
 
 
+https://github.com/AbdelmasehNabilWelson/Text_Editor/assets/110543597/f57fe3b0-5c0c-47de-ab58-4b648acea33c
+
+
+
+
 ## Project Idea
 This project is considered part of the course [Data Structures and Performance](https://www.coursera.org/learndata-structures-optimizing-performancespecialization=object-oriented-programming) provided by US sanDiego university on Coursera platform.
 
