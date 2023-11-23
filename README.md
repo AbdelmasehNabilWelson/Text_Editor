@@ -4,10 +4,13 @@ Text Editor is a simple app used to work with texts. Provides functionalities li
 # Current Implemented functionality
 * Flesch index: is a measure of how easy a piece of text is to read.
 * Markov text generator: generates new text based on the statistical patterns found in a given set of input text
+* Spell checking and AutoComplete but currently works for small letters(I will improve this later).
+  * I have implemented the auto complete function using the Trie data structure. see the AutoCompleteDictionaryTrie in the spelling package.
 
 
 
-https://github.com/AbdelmasehNabilWelson/Text_Editor/assets/110543597/eebf5ce6-892d-4b3f-9734-8e63a4fbf6b2
+https://github.com/AbdelmasehNabilWelson/Text_Editor/assets/110543597/43054b00-1676-43fc-ae88-d4a21b564604
+
 
 
 
