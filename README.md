@@ -6,10 +6,10 @@ Text Editor is a simple app used to work with texts. Provides functionalities li
 * Markov text generator: generates new text based on the statistical patterns found in a given set of input text
 * Spell checking and AutoComplete but currently works for small letters(I will improve this later).
   * I have implemented the auto complete function using the Trie data structure. see the AutoCompleteDictionaryTrie in the spelling package.
+* Edit Distance: is A Word Paths game where that finds a path from one word to another with the restriction that we can only make one change at a time (letter permutation, letter insertion, letter deletion) and that whatever change we make, has to result in a real word.
 
 
-
-[App demo video](https://www.youtube.com/watch?v=NsHB0IpBcbQ)
+[App demo video](https://www.youtube.com/watch?v=uvIuEG9BfT0&t=25s)
 
 
 

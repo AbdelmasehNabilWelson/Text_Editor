@@ -23,6 +23,10 @@ public class WPTreeGrader {
     }
 
     public static void main (String[] args) {
+    	System.out.print("start WPTreeGrader");
+
+        
+        
         int incorrect = 0;
         int tests = 0;
         String feedback = "";
@@ -39,8 +43,10 @@ public class WPTreeGrader {
 
             Dictionary dict = new DictionaryHashSet();
             DictionaryLoader.loadDictionary(dict, "data/grader_dict.txt");
-            WPTree tree = new WPTree(new NearbyWords(dict)); 
-
+            WPTree tree = new WPTree(new NearbyWords(dict));
+            
+       
+            
             List<String> path = tree.findPath("pool", "spoon");
 
             feedback += "** Test #1: Testing short path...";
@@ -48,6 +54,8 @@ public class WPTreeGrader {
 
             path = tree.findPath("stools", "moon");
 
+            System.out.println(path);
+            
             feedback += "** Test #2: Testing long path...";
             feedback += "Your path was: " + printPath(path) + ".\n";
 
@@ -65,8 +73,10 @@ public class WPTreeGrader {
             out.close();
             return;
         }
-
+        System.out.print("end WPTreeGrader");
         out.println(feedback + "Tests complete. Make sure everything looks right.");
         out.close();
+        
+
     }
 }
